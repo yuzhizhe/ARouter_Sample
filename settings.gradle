@@ -1,0 +1,4 @@
+include ':login'
+include ':main'
+include ':app'
+rootProject.name = "ARouter_Sample"
